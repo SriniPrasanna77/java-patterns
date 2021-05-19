@@ -1,6 +1,6 @@
 public class hello {
     public static String sayHello(String name) {
-        return "Hello " + name + "XXX";
+        return "Hello " + name + "$";
     }
 
     public static void main(String[] args) {
